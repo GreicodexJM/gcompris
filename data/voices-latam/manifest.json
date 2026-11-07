@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "language": "es-419",
+  "runtime_locale": "es",
+  "upstream_release": "V26.2",
+  "status": "pilot; device playback not yet verified",
+  "reference_job": "4a460039-b9f1-4dfa-9a36-59cf76f70d71",
+  "audio": {"codec": "vorbis", "sample_rate": 44100, "channels": 1, "loudness_lufs": -18, "true_peak_db": -3},
+  "original": {
+    "url": "https://cdn.kde.org/gcompris/data3/voices-ogg/voices-es-2018-12-20-21-49-05.rcc",
+    "filename": "voices-es-2018-12-20-21-49-05.rcc",
+    "md5": "68787d8897bfaabde9ea748c1616c0d3"
+  },
+  "clips": [
+    {
+      "path": "misc/welcome.ogg",
+      "text": "¡Hola! Bienvenida a GCompris. ¿A qué vamos a jugar hoy?",
+      "text_source": "Bienvenida nueva, sin nombre ni datos personales.",
+      "job_id": "11242dd6-3cfc-4efe-b0e4-893e069179ff",
+      "duration_seconds": 6.5
+    },
+    {
+      "path": "intro/enumerate.ogg",
+      "new_file": true,
+      "text": "Cuenta los elementos organizándolos y escribe la respuesta con el teclado.",
+      "text_source": "po/es/gcompris_voices.po, actividad enumerate, V26.2",
+      "job_id": "9c795761-cfab-41ce-94ec-1b3c17696dca",
+      "duration_seconds": 4.639955
+    },
+    {
+      "path": "intro/algebra_plus.ogg",
+      "text": "Suma los dos números y escribe la respuesta antes de que el globo aterrice sobre el agua.",
+      "text_source": "po/es/gcompris_voices.po, actividad algebra_plus, V26.2",
+      "job_id": "af4247a8-1e06-4d67-aadf-3433304d7649",
+      "duration_seconds": 4.99746
+    },
+    {
+      "path": "intro/algebra_minus.ogg",
+      "text": "Resta los dos números y escribe la respuesta antes de que el globo aterrice sobre el agua.",
+      "text_source": "po/es/gcompris_voices.po, actividad algebra_minus, V26.2",
+      "job_id": "6a8b08a7-ea9e-4d7a-8a32-313cf7b8e90d",
+      "duration_seconds": 4.897415
+    }
+  ]
+}
