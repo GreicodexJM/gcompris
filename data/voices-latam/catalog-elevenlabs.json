@@ -1,0 +1,6328 @@
+{
+  "language": "es-419",
+  "voice_id": "cgSgspJ2msm6clMCkdW9",
+  "model": "eleven_multilingual_v2",
+  "clips": [
+    {
+      "path": "misc/welcome.ogg",
+      "text": "¡Hola! Bienvenida a GCompris. ¿A qué vamos a jugar hoy?",
+      "source": "Adaptación latinoamericana del botón o feedback",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "misc/about.ogg",
+      "text": "Acerca de GCompris",
+      "source": "Adaptación latinoamericana del botón o feedback",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "misc/awesome.ogg",
+      "text": "¡Increíble!",
+      "source": "Adaptación latinoamericana del botón o feedback",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "misc/back.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "misc/by.ogg",
+      "text": "por",
+      "source": "Adaptación latinoamericana del botón o feedback",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "misc/check_answer.ogg",
+      "text": "Comprueba tu respuesta",
+      "source": "Adaptación latinoamericana del botón o feedback",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "misc/click_on_letter.ogg",
+      "text": "Toca la letra",
+      "source": "Adaptación latinoamericana del botón o feedback",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "misc/configuration.ogg",
+      "text": "Configuración",
+      "source": "Adaptación latinoamericana del botón o feedback",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "misc/congratulation.ogg",
+      "text": "¡Felicitaciones!",
+      "source": "Adaptación latinoamericana del botón o feedback",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "misc/equal.ogg",
+      "text": "igual",
+      "source": "Adaptación latinoamericana del botón o feedback",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "misc/fantastic.ogg",
+      "text": "¡Fantástico!",
+      "source": "Adaptación latinoamericana del botón o feedback",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "misc/good.ogg",
+      "text": "¡Bien!",
+      "source": "Adaptación latinoamericana del botón o feedback",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "misc/great.ogg",
+      "text": "¡Muy bien!",
+      "source": "Adaptación latinoamericana del botón o feedback",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "misc/help.ogg",
+      "text": "Ayuda",
+      "source": "Adaptación latinoamericana del botón o feedback",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "misc/level.ogg",
+      "text": "Nivel",
+      "source": "Adaptación latinoamericana del botón o feedback",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "misc/minus.ogg",
+      "text": "menos",
+      "source": "Adaptación latinoamericana del botón o feedback",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "misc/ok.ogg",
+      "text": "De acuerdo",
+      "source": "Adaptación latinoamericana del botón o feedback",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "misc/outof.ogg",
+      "text": "de",
+      "source": "Adaptación latinoamericana del botón o feedback",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "misc/perfect.ogg",
+      "text": "¡Perfecto!",
+      "source": "Adaptación latinoamericana del botón o feedback",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "misc/plus.ogg",
+      "text": "más",
+      "source": "Adaptación latinoamericana del botón o feedback",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "misc/quit.ogg",
+      "text": "Salir",
+      "source": "Adaptación latinoamericana del botón o feedback",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "misc/super.ogg",
+      "text": "¡Súper!",
+      "source": "Adaptación latinoamericana del botón o feedback",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "misc/waytogo.ogg",
+      "text": "¡Así se hace!",
+      "source": "Adaptación latinoamericana del botón o feedback",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "intro/advanced_colors.ogg",
+      "text": "Pulsa sobre el color indicado",
+      "source": "po/es/gcompris_voices.po, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "intro/algebra_by.ogg",
+      "text": "Multiplica los dos números y escribe la respuesta antes de que el globo aterrice sobre el agua",
+      "source": "po/es/gcompris_voices.po, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "intro/algebra_div.ogg",
+      "text": "Encuentra el resultado de la división y escribe la respuesta antes de que el globo aterrice sobre el agua",
+      "source": "po/es/gcompris_voices.po, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "intro/algebra_minus.ogg",
+      "text": "Resta los dos números y escribe la respuesta antes de que el globo aterrice sobre el agua",
+      "source": "po/es/gcompris_voices.po, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "intro/algebra_plus.ogg",
+      "text": "Suma los dos números y escribe la respuesta antes de que el globo aterrice sobre el agua",
+      "source": "po/es/gcompris_voices.po, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "intro/algorithm.ogg",
+      "text": "Pulsa sobre los objetos que faltan en la tabla y sigue la secuencia lógica que se muestra sobre ellos.",
+      "source": "po/es/gcompris_voices.po, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "intro/enumerate.ogg",
+      "text": "Cuenta los elementos organizándolos y escribe la respuesta con el teclado.",
+      "source": "po/es/gcompris_voices.po, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "colors/black.ogg",
+      "text": "negro",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "colors/blue.ogg",
+      "text": "azul",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "colors/brown.ogg",
+      "text": "marrón",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "colors/green.ogg",
+      "text": "verde",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "colors/grey.ogg",
+      "text": "gris",
+      "source": "Nombre del color",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "colors/orange.ogg",
+      "text": "naranja",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "colors/purple.ogg",
+      "text": "morado",
+      "source": "Nombre del color",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "colors/red.ogg",
+      "text": "rojo",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "colors/white.ogg",
+      "text": "blanco",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "colors/yellow.ogg",
+      "text": "amarillo",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "alphabet/10.ogg",
+      "text": "diez",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "alphabet/11.ogg",
+      "text": "once",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "alphabet/12.ogg",
+      "text": "doce",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "alphabet/16.ogg",
+      "text": "dieciséis",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "alphabet/U0030.ogg",
+      "text": "cero",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "alphabet/U0031.ogg",
+      "text": "uno",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "alphabet/U0032.ogg",
+      "text": "dos",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "alphabet/U0033.ogg",
+      "text": "tres",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "alphabet/U0034.ogg",
+      "text": "cuatro",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "alphabet/U0035.ogg",
+      "text": "cinco",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "alphabet/U0036.ogg",
+      "text": "seis",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "alphabet/U0037.ogg",
+      "text": "siete",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "alphabet/U0038.ogg",
+      "text": "ocho",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "alphabet/U0039.ogg",
+      "text": "nueve",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "alphabet/U0061.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_phoneme_review",
+      "voice": "jessica"
+    },
+    {
+      "path": "alphabet/U0062.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_phoneme_review",
+      "voice": "jessica"
+    },
+    {
+      "path": "alphabet/U0063.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_phoneme_review",
+      "voice": "jessica"
+    },
+    {
+      "path": "alphabet/U0064.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_phoneme_review",
+      "voice": "jessica"
+    },
+    {
+      "path": "alphabet/U0065.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_phoneme_review",
+      "voice": "jessica"
+    },
+    {
+      "path": "alphabet/U0066.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_phoneme_review",
+      "voice": "jessica"
+    },
+    {
+      "path": "alphabet/U0067.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_phoneme_review",
+      "voice": "jessica"
+    },
+    {
+      "path": "alphabet/U0068.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_phoneme_review",
+      "voice": "jessica"
+    },
+    {
+      "path": "alphabet/U0069.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_phoneme_review",
+      "voice": "jessica"
+    },
+    {
+      "path": "alphabet/U006A.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_phoneme_review",
+      "voice": "jessica"
+    },
+    {
+      "path": "alphabet/U006B.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_phoneme_review",
+      "voice": "jessica"
+    },
+    {
+      "path": "alphabet/U006C.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_phoneme_review",
+      "voice": "jessica"
+    },
+    {
+      "path": "alphabet/U006D.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_phoneme_review",
+      "voice": "jessica"
+    },
+    {
+      "path": "alphabet/U006E.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_phoneme_review",
+      "voice": "jessica"
+    },
+    {
+      "path": "alphabet/U006F.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_phoneme_review",
+      "voice": "jessica"
+    },
+    {
+      "path": "alphabet/U0070.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_phoneme_review",
+      "voice": "jessica"
+    },
+    {
+      "path": "alphabet/U0071.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_phoneme_review",
+      "voice": "jessica"
+    },
+    {
+      "path": "alphabet/U0072.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_phoneme_review",
+      "voice": "jessica"
+    },
+    {
+      "path": "alphabet/U0073.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_phoneme_review",
+      "voice": "jessica"
+    },
+    {
+      "path": "alphabet/U0074.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_phoneme_review",
+      "voice": "jessica"
+    },
+    {
+      "path": "alphabet/U0075.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_phoneme_review",
+      "voice": "jessica"
+    },
+    {
+      "path": "alphabet/U0076.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_phoneme_review",
+      "voice": "jessica"
+    },
+    {
+      "path": "alphabet/U0077.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_phoneme_review",
+      "voice": "jessica"
+    },
+    {
+      "path": "alphabet/U0078.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_phoneme_review",
+      "voice": "jessica"
+    },
+    {
+      "path": "alphabet/U0079.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_phoneme_review",
+      "voice": "jessica"
+    },
+    {
+      "path": "alphabet/U007A.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_phoneme_review",
+      "voice": "jessica"
+    },
+    {
+      "path": "alphabet/U00F1.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_phoneme_review",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/acorn.ogg",
+      "text": "bellota",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/actor.ogg",
+      "text": "actor",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/add.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/admire.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/age.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/air.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/alligator.ogg",
+      "text": "caimán",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/alone.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/alphabet.ogg",
+      "text": "alfabeto",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/always.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/anchor.ogg",
+      "text": "ancla",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/angel.ogg",
+      "text": "ángel",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/animal.ogg",
+      "text": "animal",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/ankle.ogg",
+      "text": "tobillo",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/answer.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/ant.ogg",
+      "text": "hormiga",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/antelope.ogg",
+      "text": "antílope",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/apple.ogg",
+      "text": "manzana",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/apricot.ogg",
+      "text": "albaricoque",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/april.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/arm.ogg",
+      "text": "brazo",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/armchair.ogg",
+      "text": "sillón",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/artichoke.ogg",
+      "text": "alcachofa",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/artist.ogg",
+      "text": "artista",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/ask.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/asparagus.ogg",
+      "text": "espárragos",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/astronaut.ogg",
+      "text": "astronauta",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/athlete.ogg",
+      "text": "atleta",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/august.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/avocado.ogg",
+      "text": "aguacate",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/baby.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/back.ogg",
+      "text": "espalda",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/bad.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/bag.ogg",
+      "text": "bolsa",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/bald.ogg",
+      "text": "calvo",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/ballet.ogg",
+      "text": "ballet",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/bank.ogg",
+      "text": "banco",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/bark.ogg",
+      "text": "ladrido",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/barn.ogg",
+      "text": "granero",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/basket.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/bath.ogg",
+      "text": "baño",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/be.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/beach.ogg",
+      "text": "playa",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/bean.ogg",
+      "text": "frejol",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/beard.ogg",
+      "text": "barba",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/beat.ogg",
+      "text": "batir",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/bed.ogg",
+      "text": "cama",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/bedroom.ogg",
+      "text": "dormitorio",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/bee.ogg",
+      "text": "abeja",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/beef.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/bell.ogg",
+      "text": "campana",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/belly.ogg",
+      "text": "vientre",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/bet.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/bib.ogg",
+      "text": "babero",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/big.ogg",
+      "text": "grande",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/bike.ogg",
+      "text": "bicicleta",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/bird.ogg",
+      "text": "pájaro",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/birth.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/black.ogg",
+      "text": "negro",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/blind.ogg",
+      "text": "ciego",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/blond.ogg",
+      "text": "rubio",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/blue.ogg",
+      "text": "azul",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/boat.ogg",
+      "text": "bote",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/boil.ogg",
+      "text": "hervir",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/bomb.ogg",
+      "text": "bomba",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/bone.ogg",
+      "text": "hueso",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/book.ogg",
+      "text": "libro",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/bowl.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/box.ogg",
+      "text": "caja",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/boy.ogg",
+      "text": "niño",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/brain.ogg",
+      "text": "cerebro",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/branch.ogg",
+      "text": "rama",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/bread.ogg",
+      "text": "pan",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/break.ogg",
+      "text": "romper",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/bridge.ogg",
+      "text": "puente",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/bright.ogg",
+      "text": "brillante",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/bring.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/broccoli.ogg",
+      "text": "brócoli",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/brown.ogg",
+      "text": "marrón",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/bubble.ogg",
+      "text": "burbuja",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/bucket.ogg",
+      "text": "cubo",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/bug.ogg",
+      "text": "escarabajo",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/build.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/bus.ogg",
+      "text": "autobús",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/butcher.ogg",
+      "text": "carnicero",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/butter.ogg",
+      "text": "mantequilla",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/butterfly.ogg",
+      "text": "mariposa",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/button.ogg",
+      "text": "botón",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/buy.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/cab.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/cabbage.ogg",
+      "text": "repollo",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/cactus.ogg",
+      "text": "cactus",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/cage.ogg",
+      "text": "jaula",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/cake.ogg",
+      "text": "pastel",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/call.ogg",
+      "text": "llamar",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/camel.ogg",
+      "text": "camello",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/camera.ogg",
+      "text": "cámara",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/camp.ogg",
+      "text": "campamento",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/candle.ogg",
+      "text": "vela",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/candy.ogg",
+      "text": "caramelo",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/cane.ogg",
+      "text": "bastón",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/canoe.ogg",
+      "text": "canoa",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/cape.ogg",
+      "text": "capa",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/car.ogg",
+      "text": "coche",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/carpet.ogg",
+      "text": "alfombra",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/carrot.ogg",
+      "text": "zanahoria",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/castle.ogg",
+      "text": "castillo",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/cat.ogg",
+      "text": "gato",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/caterpillar.ogg",
+      "text": "oruga",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/cauliflower.ogg",
+      "text": "coliflor",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/cave.ogg",
+      "text": "cueva",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/cereal.ogg",
+      "text": "cereal",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/chain.ogg",
+      "text": "cadena",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/chair.ogg",
+      "text": "silla",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/chalk.ogg",
+      "text": "tiza",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/chat.ogg",
+      "text": "charlar",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/cheese.ogg",
+      "text": "queso",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/cherry.ogg",
+      "text": "cereza",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/chick.ogg",
+      "text": "pollito",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/chicken.ogg",
+      "text": "pollo",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/chimney.ogg",
+      "text": "chimenea",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/chin.ogg",
+      "text": "mentón",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/chocolate.ogg",
+      "text": "chocolate",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/christmas.ogg",
+      "text": "Navidad",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/church.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/cigar.ogg",
+      "text": "cigarro",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/circle.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/circus.ogg",
+      "text": "circo",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/city.ogg",
+      "text": "ciudad",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/class.ogg",
+      "text": "clase",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/claw.ogg",
+      "text": "garra",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/clean.ogg",
+      "text": "limpiar",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/clock.ogg",
+      "text": "reloj",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/close.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/cloth.ogg",
+      "text": "ropa",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/cloud.ogg",
+      "text": "nube",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/clown.ogg",
+      "text": "payaso",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/coast.ogg",
+      "text": "costa",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/coat.ogg",
+      "text": "abrigo",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/cobra.ogg",
+      "text": "cobra",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/coffee.ogg",
+      "text": "café",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/coin.ogg",
+      "text": "moneda",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/cold.ogg",
+      "text": "frio",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/color.ogg",
+      "text": "color",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/comb.ogg",
+      "text": "peine",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/cone.ogg",
+      "text": "cono",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/cookie.ogg",
+      "text": "galleta",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/corn.ogg",
+      "text": "maíz",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/couple.ogg",
+      "text": "pareja",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/cow.ogg",
+      "text": "vaca",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/crab.ogg",
+      "text": "cangrejo",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/crazy.ogg",
+      "text": "loco",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/cream.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/crocodile.ogg",
+      "text": "cocodrilo",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/cry.ogg",
+      "text": "llorar",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/cucumber.ogg",
+      "text": "pepino",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/curtain.ogg",
+      "text": "cortina",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/cut.ogg",
+      "text": "cortar",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/dad.ogg",
+      "text": "papá",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/daisy.ogg",
+      "text": "margarita",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/dance.ogg",
+      "text": "bailar",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/danger.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/day.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/dead.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/december.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/deer.ogg",
+      "text": "ciervo",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/desert.ogg",
+      "text": "desierto",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/desk.ogg",
+      "text": "escritorio",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/dessert.ogg",
+      "text": "postre",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/diamond.ogg",
+      "text": "diamante",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/die.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/dig.ogg",
+      "text": "cavar",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/dirty.ogg",
+      "text": "sucio",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/dive.ogg",
+      "text": "inmersión",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/do.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/doctor.ogg",
+      "text": "médico",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/dog.ogg",
+      "text": "perro",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/doll.ogg",
+      "text": "muñeca",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/donkey.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/door.ogg",
+      "text": "puerta",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/dot.ogg",
+      "text": "punto",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/dragon.ogg",
+      "text": "dragón",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/draw.ogg",
+      "text": "dibujar",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/dream.ogg",
+      "text": "sueño",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/dress.ogg",
+      "text": "vestir",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/drink.ogg",
+      "text": "beber",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/drive.ogg",
+      "text": "conducir",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/drum.ogg",
+      "text": "tambor",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/dry.ogg",
+      "text": "secar",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/duck.ogg",
+      "text": "pato",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/dune.ogg",
+      "text": "duna",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/dwarf.ogg",
+      "text": "enano",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/eagle.ogg",
+      "text": "águila",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/earth.ogg",
+      "text": "tierra",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/eat.ogg",
+      "text": "comer",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/egg.ogg",
+      "text": "huevo",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/elbow.ogg",
+      "text": "codo",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/electrician.ogg",
+      "text": "electricista",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/elephant.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/empty.ogg",
+      "text": "vacío",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/engine.ogg",
+      "text": "motor",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/engineer.ogg",
+      "text": "ingeniero",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/english.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/eraser.ogg",
+      "text": "borrador",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/eyebrow.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/eyelash.ogg",
+      "text": "pestaña",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/eyes.ogg",
+      "text": "ojos",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/face.ogg",
+      "text": "cara",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/fairy.ogg",
+      "text": "hada",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/fall.ogg",
+      "text": "caer",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/family.ogg",
+      "text": "familia",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/fan.ogg",
+      "text": "ventilador",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/far.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/farm.ogg",
+      "text": "granja",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/farmer.ogg",
+      "text": "agricultor",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/fat.ogg",
+      "text": "grasa",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/feather.ogg",
+      "text": "pluma",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/february.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/feet.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/female.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/fill.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/fin.ogg",
+      "text": "aleta",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/find.ogg",
+      "text": "encontrar",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/finger.ogg",
+      "text": "dedo",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/fire.ogg",
+      "text": "fuego",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/fireman.ogg",
+      "text": "bombero",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/first.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/fisherman.ogg",
+      "text": "pescador",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/fist.ogg",
+      "text": "puño",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/flag.ogg",
+      "text": "bandera",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/flame.ogg",
+      "text": "llama",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/flour.ogg",
+      "text": "harina",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/flower.ogg",
+      "text": "flor",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/flute.ogg",
+      "text": "flauta",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/fly.ogg",
+      "text": "volar",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/food.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/foot.ogg",
+      "text": "pie",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/forest.ogg",
+      "text": "bosque",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/fork.ogg",
+      "text": "tenedor",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/fox.ogg",
+      "text": "zorro",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/frame.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/france.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/friday.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/friend.ogg",
+      "text": "amigo",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/frog.ogg",
+      "text": "rana",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/front.ogg",
+      "text": "frente",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/fruit.ogg",
+      "text": "fruta",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/fun.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/fur.ogg",
+      "text": "piel",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/game.ogg",
+      "text": "juego",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/gap.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/garage.ogg",
+      "text": "garaje",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/garden.ogg",
+      "text": "jardín",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/garlic.ogg",
+      "text": "ajo",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/germany.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/get.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/giant.ogg",
+      "text": "gigante",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/gift.ogg",
+      "text": "regalo",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/giraffe.ogg",
+      "text": "jirafa",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/girl.ogg",
+      "text": "chica",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/glasses.ogg",
+      "text": "gafas",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/glove.ogg",
+      "text": "guante",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/glue.ogg",
+      "text": "pegamento",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/goat.ogg",
+      "text": "cabra",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/gold.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/good.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/grain.ogg",
+      "text": "grano",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/grandfather.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/grandmother.ogg",
+      "text": "abuela",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/grape.ogg",
+      "text": "uva",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/grapefruit.ogg",
+      "text": "pomelo",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/grass.ogg",
+      "text": "hierba",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/gray.ogg",
+      "text": "gris",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/great_britain.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/green.ogg",
+      "text": "verde",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/grill.ogg",
+      "text": "parrilla",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/grow.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/hair.ogg",
+      "text": "cabello",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/hairdresser.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/half.ogg",
+      "text": "mitad",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/ham.ogg",
+      "text": "jamón",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/hamburger.ogg",
+      "text": "hamburguesa",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/hammer.ogg",
+      "text": "martillo",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/hamster.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/hand.ogg",
+      "text": "mano",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/happy.ogg",
+      "text": "feliz",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/hard.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/hat.ogg",
+      "text": "sombrero",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/hatch.ogg",
+      "text": "escotilla",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/hay.ogg",
+      "text": "heno",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/head.ogg",
+      "text": "cabeza",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/hear.ogg",
+      "text": "escuchar",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/heart.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/heat.ogg",
+      "text": "calor",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/helmet.ogg",
+      "text": "casco",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/help.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/hen.ogg",
+      "text": "gallina",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/high.ogg",
+      "text": "alto",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/hike.ogg",
+      "text": "caminata",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/hill.ogg",
+      "text": "colina",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/hippopotamus.ogg",
+      "text": "hipopótamo",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/hit.ogg",
+      "text": "golpear",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/hive.ogg",
+      "text": "colmena",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/hole.ogg",
+      "text": "agujero",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/home.ogg",
+      "text": "casa",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/hop.ogg",
+      "text": "salto",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/horse.ogg",
+      "text": "caballo",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/hospital.ogg",
+      "text": "hospital",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/hot.ogg",
+      "text": "caliente",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/house.ogg",
+      "text": "casa",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/huge.ogg",
+      "text": "enorme",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/hunter.ogg",
+      "text": "cazador",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/hurt.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/husband.ogg",
+      "text": "marido",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/ice.ogg",
+      "text": "hielo",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/ill.ogg",
+      "text": "enfermo",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/ink.ogg",
+      "text": "tinta",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/island.ogg",
+      "text": "isla",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/italy.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/jacket.ogg",
+      "text": "chaqueta",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/jam.ogg",
+      "text": "mermelada",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/january.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/jelly.ogg",
+      "text": "jalea",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/jewel.ogg",
+      "text": "joya",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/judge.ogg",
+      "text": "juez",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/july.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/jump.ogg",
+      "text": "saltar",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/june.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/kangaroo.ogg",
+      "text": "canguro",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/king.ogg",
+      "text": "rey",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/kiss.ogg",
+      "text": "beso",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/kitchen.ogg",
+      "text": "cocina",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/kite.ogg",
+      "text": "cometa",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/kiwi.ogg",
+      "text": "kiwi",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/knee.ogg",
+      "text": "rodilla",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/knife.ogg",
+      "text": "cuchillo",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/knot.ogg",
+      "text": "nudo",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/know.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/koala.ogg",
+      "text": "coala",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/ladder.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/ladybug.ogg",
+      "text": "mariquita",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/lake.ogg",
+      "text": "lago",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/lamb.ogg",
+      "text": "cordero",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/lamp.ogg",
+      "text": "lámpara",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/lane.ogg",
+      "text": "carril",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/laugh.ogg",
+      "text": "reír",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/lava.ogg",
+      "text": "lava",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/lawn.ogg",
+      "text": "césped",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/lazy.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/leaf.ogg",
+      "text": "hoja",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/leek.ogg",
+      "text": "puerro",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/left.ogg",
+      "text": "izquierda",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/leg.ogg",
+      "text": "pierna",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/lemon.ogg",
+      "text": "limón",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/leopard.ogg",
+      "text": "leopardo",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/lettuce.ogg",
+      "text": "lechuga",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/librarian.ogg",
+      "text": "bibliotecaria",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/lick.ogg",
+      "text": "lamer",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/lid.ogg",
+      "text": "tapa",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/life.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/light.ogg",
+      "text": "luz",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/lighthouse.ogg",
+      "text": "faro",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/line.ogg",
+      "text": "código de barras",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/link.ogg",
+      "text": "enlace",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/lion.ogg",
+      "text": "león",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/lip.ogg",
+      "text": "labio",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/liquid.ogg",
+      "text": "líquido",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/lizard.ogg",
+      "text": "lagartija",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/lobster.ogg",
+      "text": "langosta",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/love.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/luck.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/lunch.ogg",
+      "text": "almuerzo",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/mail.ogg",
+      "text": "correo",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/male.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/man.ogg",
+      "text": "hombre",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/map.ogg",
+      "text": "mapa",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/mask.ogg",
+      "text": "máscara",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/may.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/meal.ogg",
+      "text": "comida",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/meat.ogg",
+      "text": "carne",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/melon.ogg",
+      "text": "melón",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/milk.ogg",
+      "text": "leche",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/mill.ogg",
+      "text": "molino",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/mirror.ogg",
+      "text": "espejo",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/mole.ogg",
+      "text": "topo",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/monday.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/monkey.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/moon.ogg",
+      "text": "luna",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/mosquito.ogg",
+      "text": "mosquito",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/mother.ogg",
+      "text": "madre",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/motorcycle.ogg",
+      "text": "motocicleta",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/mountain.ogg",
+      "text": "montaña",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/mouse.ogg",
+      "text": "ratón",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/mouth.ogg",
+      "text": "boca",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/movie.ogg",
+      "text": "película",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/mud.ogg",
+      "text": "barro",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/mug.ogg",
+      "text": "jarra",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/muscle.ogg",
+      "text": "músculo",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/mushroom.ogg",
+      "text": "hongo",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/music.ogg",
+      "text": "música",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/musician.ogg",
+      "text": "músico",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/nail.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/neck.ogg",
+      "text": "cuello",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/necklace.ogg",
+      "text": "collar",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/needle.ogg",
+      "text": "aguja",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/nest.ogg",
+      "text": "nido",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/newspaper.ogg",
+      "text": "periódico",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/night.ogg",
+      "text": "noche",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/noise.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/north.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/nose.ogg",
+      "text": "nariz",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/nostril.ogg",
+      "text": "fosa nasal",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/note.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/notebook.ogg",
+      "text": "cuaderno",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/november.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/now.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/number.ogg",
+      "text": "número",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/nurse.ogg",
+      "text": "enfermera",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/nut.ogg",
+      "text": "nuez",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/oar.ogg",
+      "text": "remo",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/ocean.ogg",
+      "text": "océano",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/october.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/oil.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/olive.ogg",
+      "text": "oliva",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/onion.ogg",
+      "text": "cebolla",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/open.ogg",
+      "text": "abrir",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/orange.ogg",
+      "text": "naranja",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/owl.ogg",
+      "text": "búho",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/page.ogg",
+      "text": "página",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/paint.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/pair.ogg",
+      "text": "par",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/panda.ogg",
+      "text": "panda",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/panther.ogg",
+      "text": "pantera",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/pants.ogg",
+      "text": "pantalones",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/paper.ogg",
+      "text": "papel",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/park.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/parrot.ogg",
+      "text": "loro",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/patch.ogg",
+      "text": "parche",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/path.ogg",
+      "text": "camino",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/pay.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/pea.ogg",
+      "text": "guisante",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/peach.ogg",
+      "text": "melocotón",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/pear.ogg",
+      "text": "pera",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/pearl.ogg",
+      "text": "perla",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/pencil.ogg",
+      "text": "lápiz",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/pepper.ogg",
+      "text": "pimienta",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/petal.ogg",
+      "text": "pétalo",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/phone.ogg",
+      "text": "teléfono",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/piano.ogg",
+      "text": "piano",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/picture.ogg",
+      "text": "imagen",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/pig.ogg",
+      "text": "cerdo",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/pigeon.ogg",
+      "text": "paloma",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/pill.ogg",
+      "text": "píldora",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/pillow.ogg",
+      "text": "almohada",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/pilot.ogg",
+      "text": "piloto",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/pine_tree.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/pineapple.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/pink.ogg",
+      "text": "rosa",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/pirate.ogg",
+      "text": "pirata",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/pizza.ogg",
+      "text": "pizza",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/planet.ogg",
+      "text": "planeta",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/play.ogg",
+      "text": "jugar",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/please.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/plum.ogg",
+      "text": "ciruela",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/plumber.ogg",
+      "text": "fontanero",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/pocket.ogg",
+      "text": "bolsillo",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/police.ogg",
+      "text": "policía",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/pond.ogg",
+      "text": "estanque",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/pool.ogg",
+      "text": "piscina",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/pot.ogg",
+      "text": "olla",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/potato.ogg",
+      "text": "patata",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/pray.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/present.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/pretty.ogg",
+      "text": "bonita",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/price.ogg",
+      "text": "precio",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/priest.ogg",
+      "text": "sacerdote",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/prince.ogg",
+      "text": "príncipe",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/princess.ogg",
+      "text": "princesa",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/print.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/prison.ogg",
+      "text": "prisión",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/pullover.ogg",
+      "text": "jersey",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/pumpkin.ogg",
+      "text": "calabaza",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/purple.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/pyramid.ogg",
+      "text": "pirámide",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/queen.ogg",
+      "text": "reina",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/question.ogg",
+      "text": "cuestión",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/quick.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/quiet.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/rabbit.ogg",
+      "text": "conejo",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/radio.ogg",
+      "text": "radio",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/rain.ogg",
+      "text": "lluvia",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/rake.ogg",
+      "text": "rastrillo",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/raspberry.ogg",
+      "text": "frambuesa",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/rat.ogg",
+      "text": "rata",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/read.ogg",
+      "text": "leer",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/red.ogg",
+      "text": "rojo",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/reptile.ogg",
+      "text": "reptil",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/rhinoceros.ogg",
+      "text": "rinoceronte",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/rice.ogg",
+      "text": "arroz",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/ring.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/risk.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/river.ogg",
+      "text": "río",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/road.ogg",
+      "text": "carretera",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/robot.ogg",
+      "text": "robot",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/rocket.ogg",
+      "text": "cohete",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/roof.ogg",
+      "text": "techo",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/rooster.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/root.ogg",
+      "text": "raíz",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/rope.ogg",
+      "text": "cuerda",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/sad.ogg",
+      "text": "triste",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/sail.ogg",
+      "text": "navegar",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/sailor.ogg",
+      "text": "marinero",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/salmon.ogg",
+      "text": "salmón",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/sand.ogg",
+      "text": "arena",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/sandals.ogg",
+      "text": "sandalia",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/saturday.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/sauce.ogg",
+      "text": "salsa",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/sausage.ogg",
+      "text": "salchicha",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/scar.ogg",
+      "text": "cicatriz",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/school.ogg",
+      "text": "escuela",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/scissors.ogg",
+      "text": "tijeras",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/scorpion.ogg",
+      "text": "escorpión",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/scream.ogg",
+      "text": "gritar",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/screen.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/sea.ogg",
+      "text": "mar",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/see.ogg",
+      "text": "ver",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/seed.ogg",
+      "text": "semilla",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/sell.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/september.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/shadow.ogg",
+      "text": "sombra",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/shake.ogg",
+      "text": "sacudir",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/shark.ogg",
+      "text": "tiburón",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/sheep.ogg",
+      "text": "oveja",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/shell.ogg",
+      "text": "concha",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/shirt.ogg",
+      "text": "camisa",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/shoe.ogg",
+      "text": "zapato",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/short.ogg",
+      "text": "corto",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/shovel.ogg",
+      "text": "pala",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/shower.ogg",
+      "text": "ducha",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/shrimp.ogg",
+      "text": "camarón",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/silence.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/silver.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/sing.ogg",
+      "text": "cantar",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/singer.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/sister.ogg",
+      "text": "hermana",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/sit.ogg",
+      "text": "sentarse",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/ski.ogg",
+      "text": "esquiar",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/skirt.ogg",
+      "text": "falda",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/sky.ogg",
+      "text": "cielo",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/sleep.ogg",
+      "text": "dormir",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/sleeve.ogg",
+      "text": "manga",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/slow.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/small.ogg",
+      "text": "pequeño",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/smart.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/smell.ogg",
+      "text": "olor",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/smile.ogg",
+      "text": "sonreír",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/snack.ogg",
+      "text": "piscolabis",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/snail.ogg",
+      "text": "caracol",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/snake.ogg",
+      "text": "serpiente",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/snow.ogg",
+      "text": "nieve",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/soap.ogg",
+      "text": "jabón",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/sock.ogg",
+      "text": "calcetín",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/soft.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/soldier.ogg",
+      "text": "soldado",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/son.ogg",
+      "text": "hijo",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/sorry.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/soup.ogg",
+      "text": "sopa",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/space.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/speak.ogg",
+      "text": "hablar",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/spice.ogg",
+      "text": "especia",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/spider.ogg",
+      "text": "araña",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/spill.ogg",
+      "text": "derramar",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/spinach.ogg",
+      "text": "espinacas",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/split.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/sponge.ogg",
+      "text": "esponja",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/spoon.ogg",
+      "text": "cuchara",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/sport.ogg",
+      "text": "deporte",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/spouse.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/squirrel.ogg",
+      "text": "ardilla",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/stain.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/stamp.ogg",
+      "text": "sello",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/star.ogg",
+      "text": "estrella",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/start.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/steak.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/stem.ogg",
+      "text": "vástago",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/stick.ogg",
+      "text": "rama",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/stone.ogg",
+      "text": "piedra",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/stop.ogg",
+      "text": "parar",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/store.ogg",
+      "text": "almacenar",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/straight.ogg",
+      "text": "recto",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/straw.ogg",
+      "text": "paja",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/strawberry.ogg",
+      "text": "fresa",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/street.ogg",
+      "text": "calle",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/strong.ogg",
+      "text": "fuerte",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/student.ogg",
+      "text": "estudiante",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/study.ogg",
+      "text": "estudiar",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/sugar.ogg",
+      "text": "azúcar",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/suitcase.ogg",
+      "text": "maleta",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/summer.ogg",
+      "text": "verano",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/summit.ogg",
+      "text": "cumbre",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/sun.ogg",
+      "text": "Sol",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/sunday.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/super.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/sweat.ogg",
+      "text": "sudar",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/sweatshirt.ogg",
+      "text": "sudadera",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/sweet.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/swim.ogg",
+      "text": "nadar",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/swiss.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/table.ogg",
+      "text": "mesa",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/tag.ogg",
+      "text": "etiqueta",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/tail.ogg",
+      "text": "cola",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/take.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/task.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/teach.ogg",
+      "text": "enseñar",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/teacher.ogg",
+      "text": "maestro",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/team.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/television.ogg",
+      "text": "televisión",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/tell.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/temple.ogg",
+      "text": "templo",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/tennis.ogg",
+      "text": "tenis",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/text.ogg",
+      "text": "texto",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/thank.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/thief.ogg",
+      "text": "ladrón",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/think.ogg",
+      "text": "pensar",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/thumb.ogg",
+      "text": "pulgar",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/thursday.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/ticket.ogg",
+      "text": "billete",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/tiger.ogg",
+      "text": "tigre",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/time.ogg",
+      "text": "tiempo",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/tired.ogg",
+      "text": "cansado",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/tissue.ogg",
+      "text": "pañuelo",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/today.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/tomato.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/tomorrow.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/tongue.ogg",
+      "text": "lengua",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/tool.ogg",
+      "text": "herramienta",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/towel.ogg",
+      "text": "toalla",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/tower.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/toy.ogg",
+      "text": "juguete",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/train.ogg",
+      "text": "tren",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/train_station.ogg",
+      "text": "estación de tren",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/tree.ogg",
+      "text": "árbol",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/triangle.ogg",
+      "text": "triángulo",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/trip.ogg",
+      "text": "viaje",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/truck.ogg",
+      "text": "camión",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/tube.ogg",
+      "text": "tubo",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/tuesday.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/tulip.ogg",
+      "text": "tulipán",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/tunnel.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/turkey.ogg",
+      "text": "pavo",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/turtle.ogg",
+      "text": "tortuga",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/umbrella.ogg",
+      "text": "paraguas",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/uniform.ogg",
+      "text": "uniforme",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/valley.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/vase.ogg",
+      "text": "florero",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/vet.ogg",
+      "text": "veterinario",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/viper.ogg",
+      "text": "víbora",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/voice.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/vowel.ogg",
+      "text": "vocal",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/wait.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/walk.ogg",
+      "text": "caminar",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/wall.ogg",
+      "text": "pared",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/want.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/wash.ogg",
+      "text": "lavar",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/wasp.ogg",
+      "text": "avispa",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/water.ogg",
+      "text": "agua",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/wave.ogg",
+      "text": "ola",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/wedding.ogg",
+      "text": "boda",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/wednesday.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/weight.ogg",
+      "text": "peso",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/well.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/wet.ogg",
+      "text": "húmedo",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/wheat.ogg",
+      "text": "trigo",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/wheel.ogg",
+      "text": "rueda",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/white.ogg",
+      "text": "blanco",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/wide.ogg",
+      "text": "ancho",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/wife.ogg",
+      "text": "esposa",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/wig.ogg",
+      "text": "peluca",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/win.ogg",
+      "text": "ganar",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/wind.ogg",
+      "text": "viento",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/window.ogg",
+      "text": "ventana",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/winter.ogg",
+      "text": "invierno",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/wolf.ogg",
+      "text": "lobo",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/woman.ogg",
+      "text": "mujer",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/wood.ogg",
+      "text": "madera",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/word.ogg",
+      "text": "palabra",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/worker.ogg",
+      "text": "obrero",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/world.ogg",
+      "text": "mundo",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/write.ogg",
+      "text": "escribir",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/wrong.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/yard.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/yellow.ogg",
+      "text": "amarillo",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/yesterday.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/yogurt.ogg",
+      "text": "yogur",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "words/zebra.ogg",
+      "text": "cebra",
+      "source": "src/activities/lang/resource/content-es.json, V26.2",
+      "status": "ready",
+      "voice": "jessica"
+    },
+    {
+      "path": "geography/africa.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "geography/alaska.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "geography/albania.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "geography/algeria.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "geography/america.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "geography/angola.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "geography/antarctica.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "geography/argentina.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "geography/asia.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "geography/austria.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "geography/bahamas.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "geography/belarus.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "geography/belgium.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "geography/belize.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "geography/benin.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "geography/bolivia.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "geography/bosnia_herzegovina.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "geography/botswana.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "geography/brazil.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "geography/brunei.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "geography/bulgaria.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "geography/burkina_faso.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "geography/burundi.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "geography/cameroon.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "geography/canada.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "geography/central_african_republic.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "geography/chad.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "geography/chile.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "geography/colombia.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "geography/costa_rica.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "geography/croatia.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "geography/cuba.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "geography/cyprus.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "geography/czechia.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "geography/democratic_republic_of_congo.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "geography/denmark.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "geography/djibouti.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "geography/dominican_republic.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "geography/ecuador.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "geography/egypt.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "geography/equatorial_guinea.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "geography/eritrea.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "geography/estonia.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "geography/ethiopia.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "geography/europe.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "geography/finland.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "geography/france.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "geography/french_guiana.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "geography/gabon.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "geography/gambia.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "geography/germany.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "geography/ghana.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "geography/greece.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "geography/greenland.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "geography/guatemala.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "geography/guinea.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "geography/guinea_bissau.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "geography/guyana.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "geography/haiti.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "geography/honduras.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "geography/hungary.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "geography/iceland.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "geography/ireland.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "geography/italy.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "geography/ivory_coast.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "geography/jamaica.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "geography/kenya.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "geography/latvia.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "geography/lesotho.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "geography/liberia.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "geography/libya.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "geography/lithuania.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "geography/luxembourg.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "geography/macedonia.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "geography/madagascar.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "geography/malawi.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "geography/mali.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "geography/mauritania.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "geography/mexico.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "geography/moldova.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "geography/montenegro.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "geography/moroco.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "geography/mozambique.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "geography/namibia.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "geography/netherland.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "geography/nicaragua.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "geography/niger.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "geography/north_america.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "geography/norway.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "geography/oceania.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "geography/panama.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "geography/paraguay.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "geography/peru.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "geography/poland.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "geography/portugal.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "geography/puerto_rico.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "geography/romania.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "geography/russia.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "geography/rwanda.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "geography/salvador.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "geography/senegal.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "geography/serbia.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "geography/sierra_leone.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "geography/slovakia.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "geography/slovenia.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "geography/somalia.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "geography/south_africa.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "geography/south_america.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "geography/spain.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "geography/sudan.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "geography/suriname.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "geography/swaziland.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "geography/sweden.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "geography/switz.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "geography/tanzania.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "geography/togo.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "geography/tunisia.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "geography/turkey.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "geography/uganda.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "geography/ukraine.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "geography/united_kingdom.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "geography/uruguay.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "geography/usa.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "geography/venezuela.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "geography/western_sahara.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "geography/zambia.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    },
+    {
+      "path": "geography/zimbabwe.ogg",
+      "text": "",
+      "source": "",
+      "status": "needs_transcript",
+      "voice": "jessica"
+    }
+  ]
+}

@@ -68,3 +68,44 @@ siguen siendo los originales. Falta la escucha final del dueño en el altavoz.
 Los audios originales conservan sus licencias; los textos traducidos mantienen
 sus avisos en `po/es/gcompris_voices.po`. No se modifica la licencia global del
 proyecto ni se presupone una licencia nueva para los recursos de terceros.
+
+## Generación por lotes con ElevenLabs
+
+La voz principal aprobada después del piloto es **Jessica**, una voz
+predefinida (`premade`), con `eleven_multilingual_v2` y `language_code=es`.
+No se usan voces profesionales de la biblioteca ni se contratan planes.
+La API rechazó la voz de biblioteca anterior por exigir un plan de pago;
+la prueba con Jessica sí funcionó (55 caracteres).
+
+```sh
+python3 tools/latam/catalog.py
+python3 tools/latam/generate_elevenlabs.py  # inventario sin generación
+python3 -u tools/latam/generate_elevenlabs.py --run --max-characters 9000
+```
+
+El catálogo tiene 903 destinos. De momento 608 tienen texto identificado, con
+4.359 caracteres. Las otras 295 entradas no se envían: faltan transcripciones
+verificadas o revisión de los fonemas. No se sustituye un sonido de letra por
+su nombre sin comprobar cómo lo usa el juego. La generación conserva los textos
+del vocabulario original; la revisión regional de términos es una fase aparte.
+
+El estado persistente vive en `tools/latam/work/elevenlabs/state.json`; los MP3,
+en `tools/latam/work/elevenlabs/mp3/`. La clave solo se lee de la variable de
+entorno o de `~/.keys` y nunca se guarda en el repositorio. Hay una exclusión
+mutua para impedir dos generadores simultáneos.
+
+El tope de 9.000 caracteres es **acumulado**, no se reinicia al reanudar. Cada
+petición reserva sus caracteres antes de enviarse. Un rechazo de cuota, pago,
+autenticación o límite de velocidad detiene el lote: no se reintenta ni se cambia
+de voz o de proveedor. Un corte de red deja el resultado como incierto y exige
+revisión antes de volver a enviar. Los registros existentes se omiten al reanudar.
+
+«Incluida en el plan gratuito» no significa cuota ilimitada ni permiso universal
+de redistribución. Antes de publicar los audios de ElevenLabs o una versión que
+los contenga hay que comprobar los términos aplicables a esa cuenta y a su uso.
+Los MP3 del lote permanecen privados en `work/`; no se publican automáticamente.
+
+Generar MP3 **no** instala voces en la Fire. Tras revisar y convertir el lote se
+prepara otro APK del piloto independiente. El original solo se retirará cuando
+el reemplazo completo esté verificado y se haya resuelto qué hacer con su
+progreso; la copia usa un identificador y un historial propios.
