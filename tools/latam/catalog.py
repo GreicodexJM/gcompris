@@ -2,6 +2,7 @@
 """Inventario conservador: no traducir un nombre inglés a ciegas para locutarlo."""
 import ast
 import json
+import urllib.request
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[2]
@@ -45,6 +46,14 @@ def intros():
 
 def main():
     words = json.loads((ROOT / "src/activities/lang/resource/content-es.json").read_text())
+    legacy_path = ROOT / "tools/latam/work/content-es-V0.95.json"
+    if not legacy_path.exists():
+        legacy_path.parent.mkdir(parents=True, exist_ok=True)
+        urllib.request.urlretrieve(
+            "https://raw.githubusercontent.com/KDE/gcompris/V0.95/src/activities/lang/resource/content-es.json",
+            legacy_path)
+    legacy = json.loads(legacy_path.read_text())
+    extra = json.loads((DATA / "reviewed-extra.json").read_text())
     pilot = json.loads((DATA / "manifest.json").read_text())
     intro = intros()
     paths = {f.relative_to(BASE).as_posix() for f in BASE.rglob("*.ogg")}
@@ -60,14 +69,13 @@ def main():
             text, source = intro[filename], "po/es/gcompris_voices.po, V26.2"
         elif category in ("words", "colors", "alphabet") and filename in words:
             text, source = words[filename], "src/activities/lang/resource/content-es.json, V26.2"
+        elif category == "words" and filename in legacy:
+            text, source = legacy[filename], "src/activities/lang/resource/content-es.json, V0.95"
         if category == "colors" and stem in ("purple", "grey"):
             text, source = {"purple": "morado", "grey": "gris"}[stem], "Nombre del color"
-        # Las letras necesitan distinguir nombres de fonemas; no aproximarlos
-        # con un motor de texto a voz ni usar el nombre de archivo como texto.
+        if stem in extra.get(category, {}):
+            text, source = extra[category][stem], "data/voices-latam/reviewed-extra.json"
         status = "ready" if text else "needs_transcript"
-        if category == "alphabet" and stem.startswith("U") and not stem.startswith("U003"):
-            status = "needs_phoneme_review"
-            text = ""
         clips.append({"path": path, "text": text, "source": source,
                       "status": status, "voice": "jessica"})
     order = {"misc": 0, "intro": 1, "colors": 2, "alphabet": 3, "words": 4, "geography": 5}

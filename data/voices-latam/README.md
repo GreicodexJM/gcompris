@@ -83,11 +83,13 @@ python3 tools/latam/generate_elevenlabs.py  # inventario sin generación
 python3 -u tools/latam/generate_elevenlabs.py --run --max-characters 9000
 ```
 
-El catálogo tiene 903 destinos. De momento 608 tienen texto identificado, con
-4.359 caracteres. Las otras 295 entradas no se envían: faltan transcripciones
-verificadas o revisión de los fonemas. No se sustituye un sonido de letra por
-su nombre sin comprobar cómo lo usa el juego. La generación conserva los textos
-del vocabulario original; la revisión regional de términos es una fase aparte.
+El catálogo tiene 903 destinos con texto identificado, con 6.361 caracteres.
+Los primeros 608 suman 4.359 caracteres y no cambian al completar el catálogo.
+Se recuperaron 131 palabras del vocabulario de V0.95; los nueve sustantivos
+restantes, los topónimos, los nombres de letras y el botón Atrás se documentan
+en `reviewed-extra.json`. La actividad `click_on_letter/ActivityInfo.qml` pide
+explícitamente reconocer el nombre de las letras. La generación conserva los
+textos del vocabulario original; la revisión regional de términos es una fase aparte.
 
 El estado persistente vive en `tools/latam/work/elevenlabs/state.json`; los MP3,
 en `tools/latam/work/elevenlabs/mp3/`. La clave solo se lee de la variable de
@@ -109,3 +111,20 @@ Generar MP3 **no** instala voces en la Fire. Tras revisar y convertir el lote se
 prepara otro APK del piloto independiente. El original solo se retirará cuando
 el reemplazo completo esté verificado y se haya resuelto qué hacer con su
 progreso; la copia usa un identificador y un historial propios.
+
+### Empaquetar el lote completo privado
+
+Tras convertir a OGG Vorbis mono, 44.100 Hz, se prepara un directorio privado
+con `ogg/<categoría>/<archivo>.ogg` y `verification.json`. Este último contiene
+`clips`, una lista con `path`, `sha256`, `bytes` y `duration` por archivo.
+
+```sh
+python3 tools/latam/pack.py --elevenlabs tools/latam/work/elevenlabs/converted
+python3 tools/latam/android_pilot.py /tmp/opencode/apks/gcompris.apk
+```
+
+El empaquetador exige cobertura exacta del catálogo, hashes correctos y textos
+idénticos al registro de generación completada. Reextrae el RCC y compara los
+bytes de cada archivo. Sin `--elevenlabs` conserva el comportamiento del piloto
+de cuatro clips. Los OGG de ElevenLabs y los APK resultantes permanecen privados;
+no añadirlos al repositorio ni publicarlos sin revisar sus derechos.

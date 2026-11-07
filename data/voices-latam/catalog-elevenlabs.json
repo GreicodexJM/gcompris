@@ -26,9 +26,9 @@
     },
     {
       "path": "misc/back.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "Atrás",
+      "source": "data/voices-latam/reviewed-extra.json",
+      "status": "ready",
       "voice": "jessica"
     },
     {
@@ -383,191 +383,191 @@
     },
     {
       "path": "alphabet/U0061.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_phoneme_review",
+      "text": "a",
+      "source": "data/voices-latam/reviewed-extra.json",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "alphabet/U0062.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_phoneme_review",
+      "text": "be",
+      "source": "data/voices-latam/reviewed-extra.json",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "alphabet/U0063.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_phoneme_review",
+      "text": "ce",
+      "source": "data/voices-latam/reviewed-extra.json",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "alphabet/U0064.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_phoneme_review",
+      "text": "de",
+      "source": "data/voices-latam/reviewed-extra.json",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "alphabet/U0065.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_phoneme_review",
+      "text": "e",
+      "source": "data/voices-latam/reviewed-extra.json",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "alphabet/U0066.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_phoneme_review",
+      "text": "efe",
+      "source": "data/voices-latam/reviewed-extra.json",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "alphabet/U0067.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_phoneme_review",
+      "text": "ge",
+      "source": "data/voices-latam/reviewed-extra.json",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "alphabet/U0068.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_phoneme_review",
+      "text": "hache",
+      "source": "data/voices-latam/reviewed-extra.json",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "alphabet/U0069.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_phoneme_review",
+      "text": "i",
+      "source": "data/voices-latam/reviewed-extra.json",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "alphabet/U006A.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_phoneme_review",
+      "text": "jota",
+      "source": "data/voices-latam/reviewed-extra.json",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "alphabet/U006B.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_phoneme_review",
+      "text": "ka",
+      "source": "data/voices-latam/reviewed-extra.json",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "alphabet/U006C.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_phoneme_review",
+      "text": "ele",
+      "source": "data/voices-latam/reviewed-extra.json",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "alphabet/U006D.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_phoneme_review",
+      "text": "eme",
+      "source": "data/voices-latam/reviewed-extra.json",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "alphabet/U006E.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_phoneme_review",
+      "text": "ene",
+      "source": "data/voices-latam/reviewed-extra.json",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "alphabet/U006F.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_phoneme_review",
+      "text": "o",
+      "source": "data/voices-latam/reviewed-extra.json",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "alphabet/U0070.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_phoneme_review",
+      "text": "pe",
+      "source": "data/voices-latam/reviewed-extra.json",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "alphabet/U0071.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_phoneme_review",
+      "text": "cu",
+      "source": "data/voices-latam/reviewed-extra.json",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "alphabet/U0072.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_phoneme_review",
+      "text": "erre",
+      "source": "data/voices-latam/reviewed-extra.json",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "alphabet/U0073.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_phoneme_review",
+      "text": "ese",
+      "source": "data/voices-latam/reviewed-extra.json",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "alphabet/U0074.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_phoneme_review",
+      "text": "te",
+      "source": "data/voices-latam/reviewed-extra.json",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "alphabet/U0075.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_phoneme_review",
+      "text": "u",
+      "source": "data/voices-latam/reviewed-extra.json",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "alphabet/U0076.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_phoneme_review",
+      "text": "uve",
+      "source": "data/voices-latam/reviewed-extra.json",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "alphabet/U0077.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_phoneme_review",
+      "text": "doble ve",
+      "source": "data/voices-latam/reviewed-extra.json",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "alphabet/U0078.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_phoneme_review",
+      "text": "equis",
+      "source": "data/voices-latam/reviewed-extra.json",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "alphabet/U0079.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_phoneme_review",
+      "text": "ye",
+      "source": "data/voices-latam/reviewed-extra.json",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "alphabet/U007A.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_phoneme_review",
+      "text": "zeta",
+      "source": "data/voices-latam/reviewed-extra.json",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "alphabet/U00F1.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_phoneme_review",
+      "text": "eñe",
+      "source": "data/voices-latam/reviewed-extra.json",
+      "status": "ready",
       "voice": "jessica"
     },
     {
@@ -586,30 +586,30 @@
     },
     {
       "path": "words/add.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "añadir",
+      "source": "src/activities/lang/resource/content-es.json, V0.95",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "words/admire.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "admirar",
+      "source": "src/activities/lang/resource/content-es.json, V0.95",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "words/age.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "edad",
+      "source": "src/activities/lang/resource/content-es.json, V0.95",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "words/air.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "aire",
+      "source": "src/activities/lang/resource/content-es.json, V0.95",
+      "status": "ready",
       "voice": "jessica"
     },
     {
@@ -621,9 +621,9 @@
     },
     {
       "path": "words/alone.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "sólo",
+      "source": "src/activities/lang/resource/content-es.json, V0.95",
+      "status": "ready",
       "voice": "jessica"
     },
     {
@@ -635,9 +635,9 @@
     },
     {
       "path": "words/always.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "siempre",
+      "source": "src/activities/lang/resource/content-es.json, V0.95",
+      "status": "ready",
       "voice": "jessica"
     },
     {
@@ -670,9 +670,9 @@
     },
     {
       "path": "words/answer.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "responder",
+      "source": "src/activities/lang/resource/content-es.json, V0.95",
+      "status": "ready",
       "voice": "jessica"
     },
     {
@@ -705,9 +705,9 @@
     },
     {
       "path": "words/april.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "abril",
+      "source": "src/activities/lang/resource/content-es.json, V0.95",
+      "status": "ready",
       "voice": "jessica"
     },
     {
@@ -740,9 +740,9 @@
     },
     {
       "path": "words/ask.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "pedir",
+      "source": "src/activities/lang/resource/content-es.json, V0.95",
+      "status": "ready",
       "voice": "jessica"
     },
     {
@@ -768,9 +768,9 @@
     },
     {
       "path": "words/august.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "agosto",
+      "source": "src/activities/lang/resource/content-es.json, V0.95",
+      "status": "ready",
       "voice": "jessica"
     },
     {
@@ -782,9 +782,9 @@
     },
     {
       "path": "words/baby.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "bebé",
+      "source": "src/activities/lang/resource/content-es.json, V0.95",
+      "status": "ready",
       "voice": "jessica"
     },
     {
@@ -796,9 +796,9 @@
     },
     {
       "path": "words/bad.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "malo",
+      "source": "src/activities/lang/resource/content-es.json, V0.95",
+      "status": "ready",
       "voice": "jessica"
     },
     {
@@ -845,9 +845,9 @@
     },
     {
       "path": "words/basket.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "canasta",
+      "source": "src/activities/lang/resource/content-es.json, V0.95",
+      "status": "ready",
       "voice": "jessica"
     },
     {
@@ -859,9 +859,9 @@
     },
     {
       "path": "words/be.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "ser",
+      "source": "src/activities/lang/resource/content-es.json, V0.95",
+      "status": "ready",
       "voice": "jessica"
     },
     {
@@ -915,9 +915,9 @@
     },
     {
       "path": "words/beef.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "carne de res",
+      "source": "data/voices-latam/reviewed-extra.json",
+      "status": "ready",
       "voice": "jessica"
     },
     {
@@ -936,9 +936,9 @@
     },
     {
       "path": "words/bet.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "apostar",
+      "source": "src/activities/lang/resource/content-es.json, V0.95",
+      "status": "ready",
       "voice": "jessica"
     },
     {
@@ -971,9 +971,9 @@
     },
     {
       "path": "words/birth.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "nacimiento",
+      "source": "src/activities/lang/resource/content-es.json, V0.95",
+      "status": "ready",
       "voice": "jessica"
     },
     {
@@ -1041,9 +1041,9 @@
     },
     {
       "path": "words/bowl.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "cuenco",
+      "source": "src/activities/lang/resource/content-es.json, V0.95",
+      "status": "ready",
       "voice": "jessica"
     },
     {
@@ -1104,9 +1104,9 @@
     },
     {
       "path": "words/bring.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "llevar",
+      "source": "src/activities/lang/resource/content-es.json, V0.95",
+      "status": "ready",
       "voice": "jessica"
     },
     {
@@ -1146,9 +1146,9 @@
     },
     {
       "path": "words/build.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "construir",
+      "source": "src/activities/lang/resource/content-es.json, V0.95",
+      "status": "ready",
       "voice": "jessica"
     },
     {
@@ -1188,16 +1188,16 @@
     },
     {
       "path": "words/buy.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "comprar",
+      "source": "src/activities/lang/resource/content-es.json, V0.95",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "words/cab.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "cabina",
+      "source": "src/activities/lang/resource/content-es.json, V0.95",
+      "status": "ready",
       "voice": "jessica"
     },
     {
@@ -1440,9 +1440,9 @@
     },
     {
       "path": "words/church.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "iglesia",
+      "source": "src/activities/lang/resource/content-es.json, V0.95",
+      "status": "ready",
       "voice": "jessica"
     },
     {
@@ -1454,9 +1454,9 @@
     },
     {
       "path": "words/circle.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "círculo",
+      "source": "src/activities/lang/resource/content-es.json, V0.95",
+      "status": "ready",
       "voice": "jessica"
     },
     {
@@ -1503,9 +1503,9 @@
     },
     {
       "path": "words/close.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "cerrar",
+      "source": "src/activities/lang/resource/content-es.json, V0.95",
+      "status": "ready",
       "voice": "jessica"
     },
     {
@@ -1636,9 +1636,9 @@
     },
     {
       "path": "words/cream.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "crema",
+      "source": "src/activities/lang/resource/content-es.json, V0.95",
+      "status": "ready",
       "voice": "jessica"
     },
     {
@@ -1699,30 +1699,30 @@
     },
     {
       "path": "words/danger.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "peligro",
+      "source": "data/voices-latam/reviewed-extra.json",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "words/day.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "día",
+      "source": "src/activities/lang/resource/content-es.json, V0.95",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "words/dead.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "muerto",
+      "source": "src/activities/lang/resource/content-es.json, V0.95",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "words/december.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "diciembre",
+      "source": "src/activities/lang/resource/content-es.json, V0.95",
+      "status": "ready",
       "voice": "jessica"
     },
     {
@@ -1762,9 +1762,9 @@
     },
     {
       "path": "words/die.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "morir",
+      "source": "src/activities/lang/resource/content-es.json, V0.95",
+      "status": "ready",
       "voice": "jessica"
     },
     {
@@ -1790,9 +1790,9 @@
     },
     {
       "path": "words/do.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "hacer",
+      "source": "src/activities/lang/resource/content-es.json, V0.95",
+      "status": "ready",
       "voice": "jessica"
     },
     {
@@ -1818,9 +1818,9 @@
     },
     {
       "path": "words/donkey.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "burro",
+      "source": "src/activities/lang/resource/content-es.json, V0.95",
+      "status": "ready",
       "voice": "jessica"
     },
     {
@@ -1958,9 +1958,9 @@
     },
     {
       "path": "words/elephant.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "elefante",
+      "source": "src/activities/lang/resource/content-es.json, V0.95",
+      "status": "ready",
       "voice": "jessica"
     },
     {
@@ -1986,9 +1986,9 @@
     },
     {
       "path": "words/english.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "inglés",
+      "source": "src/activities/lang/resource/content-es.json, V0.95",
+      "status": "ready",
       "voice": "jessica"
     },
     {
@@ -2000,9 +2000,9 @@
     },
     {
       "path": "words/eyebrow.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "ceja",
+      "source": "src/activities/lang/resource/content-es.json, V0.95",
+      "status": "ready",
       "voice": "jessica"
     },
     {
@@ -2056,9 +2056,9 @@
     },
     {
       "path": "words/far.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "lejos",
+      "source": "src/activities/lang/resource/content-es.json, V0.95",
+      "status": "ready",
       "voice": "jessica"
     },
     {
@@ -2091,30 +2091,30 @@
     },
     {
       "path": "words/february.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "febrero",
+      "source": "src/activities/lang/resource/content-es.json, V0.95",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "words/feet.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "pies",
+      "source": "data/voices-latam/reviewed-extra.json",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "words/female.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "femenino",
+      "source": "src/activities/lang/resource/content-es.json, V0.95",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "words/fill.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "llenar",
+      "source": "src/activities/lang/resource/content-es.json, V0.95",
+      "status": "ready",
       "voice": "jessica"
     },
     {
@@ -2154,9 +2154,9 @@
     },
     {
       "path": "words/first.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "primero",
+      "source": "src/activities/lang/resource/content-es.json, V0.95",
+      "status": "ready",
       "voice": "jessica"
     },
     {
@@ -2217,9 +2217,9 @@
     },
     {
       "path": "words/food.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "comida",
+      "source": "data/voices-latam/reviewed-extra.json",
+      "status": "ready",
       "voice": "jessica"
     },
     {
@@ -2252,23 +2252,23 @@
     },
     {
       "path": "words/frame.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "marco",
+      "source": "src/activities/lang/resource/content-es.json, V0.95",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "words/france.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "Francia",
+      "source": "src/activities/lang/resource/content-es.json, V0.95",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "words/friday.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "viernes",
+      "source": "src/activities/lang/resource/content-es.json, V0.95",
+      "status": "ready",
       "voice": "jessica"
     },
     {
@@ -2301,9 +2301,9 @@
     },
     {
       "path": "words/fun.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "diversión",
+      "source": "data/voices-latam/reviewed-extra.json",
+      "status": "ready",
       "voice": "jessica"
     },
     {
@@ -2322,9 +2322,9 @@
     },
     {
       "path": "words/gap.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "brecha",
+      "source": "src/activities/lang/resource/content-es.json, V0.95",
+      "status": "ready",
       "voice": "jessica"
     },
     {
@@ -2350,16 +2350,16 @@
     },
     {
       "path": "words/germany.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "Alemania",
+      "source": "src/activities/lang/resource/content-es.json, V0.95",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "words/get.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "obtener",
+      "source": "src/activities/lang/resource/content-es.json, V0.95",
+      "status": "ready",
       "voice": "jessica"
     },
     {
@@ -2420,16 +2420,16 @@
     },
     {
       "path": "words/gold.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "oro",
+      "source": "src/activities/lang/resource/content-es.json, V0.95",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "words/good.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "bueno",
+      "source": "src/activities/lang/resource/content-es.json, V0.95",
+      "status": "ready",
       "voice": "jessica"
     },
     {
@@ -2441,9 +2441,9 @@
     },
     {
       "path": "words/grandfather.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "abuelo",
+      "source": "src/activities/lang/resource/content-es.json, V0.95",
+      "status": "ready",
       "voice": "jessica"
     },
     {
@@ -2483,9 +2483,9 @@
     },
     {
       "path": "words/great_britain.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "Gran bretaña",
+      "source": "src/activities/lang/resource/content-es.json, V0.95",
+      "status": "ready",
       "voice": "jessica"
     },
     {
@@ -2504,9 +2504,9 @@
     },
     {
       "path": "words/grow.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "crecer",
+      "source": "src/activities/lang/resource/content-es.json, V0.95",
+      "status": "ready",
       "voice": "jessica"
     },
     {
@@ -2518,9 +2518,9 @@
     },
     {
       "path": "words/hairdresser.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "peluquero",
+      "source": "src/activities/lang/resource/content-es.json, V0.95",
+      "status": "ready",
       "voice": "jessica"
     },
     {
@@ -2553,9 +2553,9 @@
     },
     {
       "path": "words/hamster.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "hámster",
+      "source": "src/activities/lang/resource/content-es.json, V0.95",
+      "status": "ready",
       "voice": "jessica"
     },
     {
@@ -2574,9 +2574,9 @@
     },
     {
       "path": "words/hard.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "duro",
+      "source": "src/activities/lang/resource/content-es.json, V0.95",
+      "status": "ready",
       "voice": "jessica"
     },
     {
@@ -2616,9 +2616,9 @@
     },
     {
       "path": "words/heart.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "corazón",
+      "source": "src/activities/lang/resource/content-es.json, V0.95",
+      "status": "ready",
       "voice": "jessica"
     },
     {
@@ -2637,9 +2637,9 @@
     },
     {
       "path": "words/help.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "ayudar",
+      "source": "src/activities/lang/resource/content-es.json, V0.95",
+      "status": "ready",
       "voice": "jessica"
     },
     {
@@ -2756,9 +2756,9 @@
     },
     {
       "path": "words/hurt.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "daño",
+      "source": "src/activities/lang/resource/content-es.json, V0.95",
+      "status": "ready",
       "voice": "jessica"
     },
     {
@@ -2798,9 +2798,9 @@
     },
     {
       "path": "words/italy.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "Italia",
+      "source": "src/activities/lang/resource/content-es.json, V0.95",
+      "status": "ready",
       "voice": "jessica"
     },
     {
@@ -2819,9 +2819,9 @@
     },
     {
       "path": "words/january.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "enero",
+      "source": "src/activities/lang/resource/content-es.json, V0.95",
+      "status": "ready",
       "voice": "jessica"
     },
     {
@@ -2847,9 +2847,9 @@
     },
     {
       "path": "words/july.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "julio",
+      "source": "src/activities/lang/resource/content-es.json, V0.95",
+      "status": "ready",
       "voice": "jessica"
     },
     {
@@ -2861,9 +2861,9 @@
     },
     {
       "path": "words/june.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "junio",
+      "source": "src/activities/lang/resource/content-es.json, V0.95",
+      "status": "ready",
       "voice": "jessica"
     },
     {
@@ -2931,9 +2931,9 @@
     },
     {
       "path": "words/know.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "saber",
+      "source": "src/activities/lang/resource/content-es.json, V0.95",
+      "status": "ready",
       "voice": "jessica"
     },
     {
@@ -2945,9 +2945,9 @@
     },
     {
       "path": "words/ladder.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "escalera",
+      "source": "src/activities/lang/resource/content-es.json, V0.95",
+      "status": "ready",
       "voice": "jessica"
     },
     {
@@ -3008,9 +3008,9 @@
     },
     {
       "path": "words/lazy.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "perezoso",
+      "source": "src/activities/lang/resource/content-es.json, V0.95",
+      "status": "ready",
       "voice": "jessica"
     },
     {
@@ -3085,9 +3085,9 @@
     },
     {
       "path": "words/life.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "vida",
+      "source": "src/activities/lang/resource/content-es.json, V0.95",
+      "status": "ready",
       "voice": "jessica"
     },
     {
@@ -3155,16 +3155,16 @@
     },
     {
       "path": "words/love.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "amor",
+      "source": "src/activities/lang/resource/content-es.json, V0.95",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "words/luck.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "suerte",
+      "source": "src/activities/lang/resource/content-es.json, V0.95",
+      "status": "ready",
       "voice": "jessica"
     },
     {
@@ -3183,9 +3183,9 @@
     },
     {
       "path": "words/male.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "masculino",
+      "source": "src/activities/lang/resource/content-es.json, V0.95",
+      "status": "ready",
       "voice": "jessica"
     },
     {
@@ -3211,9 +3211,9 @@
     },
     {
       "path": "words/may.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "mayo",
+      "source": "src/activities/lang/resource/content-es.json, V0.95",
+      "status": "ready",
       "voice": "jessica"
     },
     {
@@ -3267,16 +3267,16 @@
     },
     {
       "path": "words/monday.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "lunes",
+      "source": "src/activities/lang/resource/content-es.json, V0.95",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "words/monkey.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "mono",
+      "source": "src/activities/lang/resource/content-es.json, V0.95",
+      "status": "ready",
       "voice": "jessica"
     },
     {
@@ -3379,9 +3379,9 @@
     },
     {
       "path": "words/nail.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "clavo",
+      "source": "src/activities/lang/resource/content-es.json, V0.95",
+      "status": "ready",
       "voice": "jessica"
     },
     {
@@ -3428,16 +3428,16 @@
     },
     {
       "path": "words/noise.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "ruido",
+      "source": "src/activities/lang/resource/content-es.json, V0.95",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "words/north.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "norte",
+      "source": "src/activities/lang/resource/content-es.json, V0.95",
+      "status": "ready",
       "voice": "jessica"
     },
     {
@@ -3456,9 +3456,9 @@
     },
     {
       "path": "words/note.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "nota",
+      "source": "src/activities/lang/resource/content-es.json, V0.95",
+      "status": "ready",
       "voice": "jessica"
     },
     {
@@ -3470,16 +3470,16 @@
     },
     {
       "path": "words/november.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "noviembre",
+      "source": "src/activities/lang/resource/content-es.json, V0.95",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "words/now.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "ahora",
+      "source": "src/activities/lang/resource/content-es.json, V0.95",
+      "status": "ready",
       "voice": "jessica"
     },
     {
@@ -3519,16 +3519,16 @@
     },
     {
       "path": "words/october.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "octubre",
+      "source": "src/activities/lang/resource/content-es.json, V0.95",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "words/oil.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "aceite",
+      "source": "src/activities/lang/resource/content-es.json, V0.95",
+      "status": "ready",
       "voice": "jessica"
     },
     {
@@ -3575,9 +3575,9 @@
     },
     {
       "path": "words/paint.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "pintar",
+      "source": "src/activities/lang/resource/content-es.json, V0.95",
+      "status": "ready",
       "voice": "jessica"
     },
     {
@@ -3617,9 +3617,9 @@
     },
     {
       "path": "words/park.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "parque",
+      "source": "src/activities/lang/resource/content-es.json, V0.95",
+      "status": "ready",
       "voice": "jessica"
     },
     {
@@ -3645,9 +3645,9 @@
     },
     {
       "path": "words/pay.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "pagar",
+      "source": "src/activities/lang/resource/content-es.json, V0.95",
+      "status": "ready",
       "voice": "jessica"
     },
     {
@@ -3757,16 +3757,16 @@
     },
     {
       "path": "words/pine_tree.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "pino",
+      "source": "data/voices-latam/reviewed-extra.json",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "words/pineapple.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "piña",
+      "source": "data/voices-latam/reviewed-extra.json",
+      "status": "ready",
       "voice": "jessica"
     },
     {
@@ -3806,9 +3806,9 @@
     },
     {
       "path": "words/please.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "complacer",
+      "source": "src/activities/lang/resource/content-es.json, V0.95",
+      "status": "ready",
       "voice": "jessica"
     },
     {
@@ -3869,16 +3869,16 @@
     },
     {
       "path": "words/pray.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "orar",
+      "source": "src/activities/lang/resource/content-es.json, V0.95",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "words/present.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "presentar",
+      "source": "src/activities/lang/resource/content-es.json, V0.95",
+      "status": "ready",
       "voice": "jessica"
     },
     {
@@ -3918,9 +3918,9 @@
     },
     {
       "path": "words/print.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "imprimir",
+      "source": "src/activities/lang/resource/content-es.json, V0.95",
+      "status": "ready",
       "voice": "jessica"
     },
     {
@@ -3946,9 +3946,9 @@
     },
     {
       "path": "words/purple.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "púrpura",
+      "source": "src/activities/lang/resource/content-es.json, V0.95",
+      "status": "ready",
       "voice": "jessica"
     },
     {
@@ -3974,16 +3974,16 @@
     },
     {
       "path": "words/quick.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "rápido",
+      "source": "src/activities/lang/resource/content-es.json, V0.95",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "words/quiet.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "tranquilo",
+      "source": "src/activities/lang/resource/content-es.json, V0.95",
+      "status": "ready",
       "voice": "jessica"
     },
     {
@@ -4065,16 +4065,16 @@
     },
     {
       "path": "words/ring.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "anillo",
+      "source": "src/activities/lang/resource/content-es.json, V0.95",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "words/risk.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "riesgo",
+      "source": "src/activities/lang/resource/content-es.json, V0.95",
+      "status": "ready",
       "voice": "jessica"
     },
     {
@@ -4114,9 +4114,9 @@
     },
     {
       "path": "words/rooster.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "gallo",
+      "source": "src/activities/lang/resource/content-es.json, V0.95",
+      "status": "ready",
       "voice": "jessica"
     },
     {
@@ -4177,9 +4177,9 @@
     },
     {
       "path": "words/saturday.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "sábado",
+      "source": "src/activities/lang/resource/content-es.json, V0.95",
+      "status": "ready",
       "voice": "jessica"
     },
     {
@@ -4233,9 +4233,9 @@
     },
     {
       "path": "words/screen.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "pantalla",
+      "source": "src/activities/lang/resource/content-es.json, V0.95",
+      "status": "ready",
       "voice": "jessica"
     },
     {
@@ -4261,16 +4261,16 @@
     },
     {
       "path": "words/sell.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "vender",
+      "source": "src/activities/lang/resource/content-es.json, V0.95",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "words/september.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "septiembre",
+      "source": "src/activities/lang/resource/content-es.json, V0.95",
+      "status": "ready",
       "voice": "jessica"
     },
     {
@@ -4352,16 +4352,16 @@
     },
     {
       "path": "words/silence.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "silencio",
+      "source": "src/activities/lang/resource/content-es.json, V0.95",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "words/silver.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "plata",
+      "source": "src/activities/lang/resource/content-es.json, V0.95",
+      "status": "ready",
       "voice": "jessica"
     },
     {
@@ -4373,9 +4373,9 @@
     },
     {
       "path": "words/singer.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "cantante",
+      "source": "src/activities/lang/resource/content-es.json, V0.95",
+      "status": "ready",
       "voice": "jessica"
     },
     {
@@ -4429,9 +4429,9 @@
     },
     {
       "path": "words/slow.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "lento",
+      "source": "src/activities/lang/resource/content-es.json, V0.95",
+      "status": "ready",
       "voice": "jessica"
     },
     {
@@ -4443,9 +4443,9 @@
     },
     {
       "path": "words/smart.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "inteligente",
+      "source": "src/activities/lang/resource/content-es.json, V0.95",
+      "status": "ready",
       "voice": "jessica"
     },
     {
@@ -4506,9 +4506,9 @@
     },
     {
       "path": "words/soft.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "suave",
+      "source": "src/activities/lang/resource/content-es.json, V0.95",
+      "status": "ready",
       "voice": "jessica"
     },
     {
@@ -4527,9 +4527,9 @@
     },
     {
       "path": "words/sorry.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "arrepentido",
+      "source": "src/activities/lang/resource/content-es.json, V0.95",
+      "status": "ready",
       "voice": "jessica"
     },
     {
@@ -4541,9 +4541,9 @@
     },
     {
       "path": "words/space.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "espacio",
+      "source": "src/activities/lang/resource/content-es.json, V0.95",
+      "status": "ready",
       "voice": "jessica"
     },
     {
@@ -4583,9 +4583,9 @@
     },
     {
       "path": "words/split.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "dividido",
+      "source": "src/activities/lang/resource/content-es.json, V0.95",
+      "status": "ready",
       "voice": "jessica"
     },
     {
@@ -4611,9 +4611,9 @@
     },
     {
       "path": "words/spouse.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "cónyuge",
+      "source": "src/activities/lang/resource/content-es.json, V0.95",
+      "status": "ready",
       "voice": "jessica"
     },
     {
@@ -4625,9 +4625,9 @@
     },
     {
       "path": "words/stain.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "mancha",
+      "source": "src/activities/lang/resource/content-es.json, V0.95",
+      "status": "ready",
       "voice": "jessica"
     },
     {
@@ -4646,16 +4646,16 @@
     },
     {
       "path": "words/start.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "iniciar",
+      "source": "src/activities/lang/resource/content-es.json, V0.95",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "words/steak.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "bistec",
+      "source": "data/voices-latam/reviewed-extra.json",
+      "status": "ready",
       "voice": "jessica"
     },
     {
@@ -4779,16 +4779,16 @@
     },
     {
       "path": "words/sunday.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "domingo",
+      "source": "src/activities/lang/resource/content-es.json, V0.95",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "words/super.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "súper",
+      "source": "src/activities/lang/resource/content-es.json, V0.95",
+      "status": "ready",
       "voice": "jessica"
     },
     {
@@ -4807,9 +4807,9 @@
     },
     {
       "path": "words/sweet.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "dulce",
+      "source": "src/activities/lang/resource/content-es.json, V0.95",
+      "status": "ready",
       "voice": "jessica"
     },
     {
@@ -4821,9 +4821,9 @@
     },
     {
       "path": "words/swiss.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "suizo",
+      "source": "src/activities/lang/resource/content-es.json, V0.95",
+      "status": "ready",
       "voice": "jessica"
     },
     {
@@ -4849,16 +4849,16 @@
     },
     {
       "path": "words/take.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "tomar",
+      "source": "src/activities/lang/resource/content-es.json, V0.95",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "words/task.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "tarea",
+      "source": "src/activities/lang/resource/content-es.json, V0.95",
+      "status": "ready",
       "voice": "jessica"
     },
     {
@@ -4877,9 +4877,9 @@
     },
     {
       "path": "words/team.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "equipo",
+      "source": "src/activities/lang/resource/content-es.json, V0.95",
+      "status": "ready",
       "voice": "jessica"
     },
     {
@@ -4891,9 +4891,9 @@
     },
     {
       "path": "words/tell.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "contar",
+      "source": "src/activities/lang/resource/content-es.json, V0.95",
+      "status": "ready",
       "voice": "jessica"
     },
     {
@@ -4919,9 +4919,9 @@
     },
     {
       "path": "words/thank.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "agradecer",
+      "source": "src/activities/lang/resource/content-es.json, V0.95",
+      "status": "ready",
       "voice": "jessica"
     },
     {
@@ -4947,9 +4947,9 @@
     },
     {
       "path": "words/thursday.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "jueves",
+      "source": "src/activities/lang/resource/content-es.json, V0.95",
+      "status": "ready",
       "voice": "jessica"
     },
     {
@@ -4989,23 +4989,23 @@
     },
     {
       "path": "words/today.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "hoy",
+      "source": "src/activities/lang/resource/content-es.json, V0.95",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "words/tomato.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "tomate",
+      "source": "data/voices-latam/reviewed-extra.json",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "words/tomorrow.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "mañana",
+      "source": "src/activities/lang/resource/content-es.json, V0.95",
+      "status": "ready",
       "voice": "jessica"
     },
     {
@@ -5031,9 +5031,9 @@
     },
     {
       "path": "words/tower.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "torre",
+      "source": "src/activities/lang/resource/content-es.json, V0.95",
+      "status": "ready",
       "voice": "jessica"
     },
     {
@@ -5094,9 +5094,9 @@
     },
     {
       "path": "words/tuesday.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "martes",
+      "source": "src/activities/lang/resource/content-es.json, V0.95",
+      "status": "ready",
       "voice": "jessica"
     },
     {
@@ -5108,9 +5108,9 @@
     },
     {
       "path": "words/tunnel.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "túnel",
+      "source": "src/activities/lang/resource/content-es.json, V0.95",
+      "status": "ready",
       "voice": "jessica"
     },
     {
@@ -5143,9 +5143,9 @@
     },
     {
       "path": "words/valley.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "valle",
+      "source": "src/activities/lang/resource/content-es.json, V0.95",
+      "status": "ready",
       "voice": "jessica"
     },
     {
@@ -5171,9 +5171,9 @@
     },
     {
       "path": "words/voice.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "voz",
+      "source": "src/activities/lang/resource/content-es.json, V0.95",
+      "status": "ready",
       "voice": "jessica"
     },
     {
@@ -5185,9 +5185,9 @@
     },
     {
       "path": "words/wait.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "esperar",
+      "source": "src/activities/lang/resource/content-es.json, V0.95",
+      "status": "ready",
       "voice": "jessica"
     },
     {
@@ -5206,9 +5206,9 @@
     },
     {
       "path": "words/want.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "querer",
+      "source": "src/activities/lang/resource/content-es.json, V0.95",
+      "status": "ready",
       "voice": "jessica"
     },
     {
@@ -5248,9 +5248,9 @@
     },
     {
       "path": "words/wednesday.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "miércoles",
+      "source": "src/activities/lang/resource/content-es.json, V0.95",
+      "status": "ready",
       "voice": "jessica"
     },
     {
@@ -5262,9 +5262,9 @@
     },
     {
       "path": "words/well.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "bien",
+      "source": "src/activities/lang/resource/content-es.json, V0.95",
+      "status": "ready",
       "voice": "jessica"
     },
     {
@@ -5395,16 +5395,16 @@
     },
     {
       "path": "words/wrong.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "erroneo",
+      "source": "src/activities/lang/resource/content-es.json, V0.95",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "words/yard.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "patio",
+      "source": "src/activities/lang/resource/content-es.json, V0.95",
+      "status": "ready",
       "voice": "jessica"
     },
     {
@@ -5416,9 +5416,9 @@
     },
     {
       "path": "words/yesterday.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "ayer",
+      "source": "src/activities/lang/resource/content-es.json, V0.95",
+      "status": "ready",
       "voice": "jessica"
     },
     {
@@ -5437,891 +5437,891 @@
     },
     {
       "path": "geography/africa.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "África",
+      "source": "data/voices-latam/reviewed-extra.json",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "geography/alaska.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "Alaska",
+      "source": "data/voices-latam/reviewed-extra.json",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "geography/albania.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "Albania",
+      "source": "data/voices-latam/reviewed-extra.json",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "geography/algeria.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "Argelia",
+      "source": "data/voices-latam/reviewed-extra.json",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "geography/america.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "América",
+      "source": "data/voices-latam/reviewed-extra.json",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "geography/angola.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "Angola",
+      "source": "data/voices-latam/reviewed-extra.json",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "geography/antarctica.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "Antártida",
+      "source": "data/voices-latam/reviewed-extra.json",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "geography/argentina.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "Argentina",
+      "source": "data/voices-latam/reviewed-extra.json",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "geography/asia.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "Asia",
+      "source": "data/voices-latam/reviewed-extra.json",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "geography/austria.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "Austria",
+      "source": "data/voices-latam/reviewed-extra.json",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "geography/bahamas.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "Bahamas",
+      "source": "data/voices-latam/reviewed-extra.json",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "geography/belarus.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "Bielorrusia",
+      "source": "data/voices-latam/reviewed-extra.json",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "geography/belgium.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "Bélgica",
+      "source": "data/voices-latam/reviewed-extra.json",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "geography/belize.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "Belice",
+      "source": "data/voices-latam/reviewed-extra.json",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "geography/benin.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "Benín",
+      "source": "data/voices-latam/reviewed-extra.json",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "geography/bolivia.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "Bolivia",
+      "source": "data/voices-latam/reviewed-extra.json",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "geography/bosnia_herzegovina.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "Bosnia y Herzegovina",
+      "source": "data/voices-latam/reviewed-extra.json",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "geography/botswana.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "Botsuana",
+      "source": "data/voices-latam/reviewed-extra.json",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "geography/brazil.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "Brasil",
+      "source": "data/voices-latam/reviewed-extra.json",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "geography/brunei.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "Brunéi",
+      "source": "data/voices-latam/reviewed-extra.json",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "geography/bulgaria.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "Bulgaria",
+      "source": "data/voices-latam/reviewed-extra.json",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "geography/burkina_faso.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "Burkina Faso",
+      "source": "data/voices-latam/reviewed-extra.json",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "geography/burundi.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "Burundi",
+      "source": "data/voices-latam/reviewed-extra.json",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "geography/cameroon.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "Camerún",
+      "source": "data/voices-latam/reviewed-extra.json",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "geography/canada.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "Canadá",
+      "source": "data/voices-latam/reviewed-extra.json",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "geography/central_african_republic.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "República Centroafricana",
+      "source": "data/voices-latam/reviewed-extra.json",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "geography/chad.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "Chad",
+      "source": "data/voices-latam/reviewed-extra.json",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "geography/chile.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "Chile",
+      "source": "data/voices-latam/reviewed-extra.json",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "geography/colombia.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "Colombia",
+      "source": "data/voices-latam/reviewed-extra.json",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "geography/costa_rica.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "Costa Rica",
+      "source": "data/voices-latam/reviewed-extra.json",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "geography/croatia.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "Croacia",
+      "source": "data/voices-latam/reviewed-extra.json",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "geography/cuba.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "Cuba",
+      "source": "data/voices-latam/reviewed-extra.json",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "geography/cyprus.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "Chipre",
+      "source": "data/voices-latam/reviewed-extra.json",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "geography/czechia.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "Chequia",
+      "source": "data/voices-latam/reviewed-extra.json",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "geography/democratic_republic_of_congo.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "República Democrática del Congo",
+      "source": "data/voices-latam/reviewed-extra.json",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "geography/denmark.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "Dinamarca",
+      "source": "data/voices-latam/reviewed-extra.json",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "geography/djibouti.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "Yibuti",
+      "source": "data/voices-latam/reviewed-extra.json",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "geography/dominican_republic.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "República Dominicana",
+      "source": "data/voices-latam/reviewed-extra.json",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "geography/ecuador.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "Ecuador",
+      "source": "data/voices-latam/reviewed-extra.json",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "geography/egypt.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "Egipto",
+      "source": "data/voices-latam/reviewed-extra.json",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "geography/equatorial_guinea.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "Guinea Ecuatorial",
+      "source": "data/voices-latam/reviewed-extra.json",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "geography/eritrea.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "Eritrea",
+      "source": "data/voices-latam/reviewed-extra.json",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "geography/estonia.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "Estonia",
+      "source": "data/voices-latam/reviewed-extra.json",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "geography/ethiopia.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "Etiopía",
+      "source": "data/voices-latam/reviewed-extra.json",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "geography/europe.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "Europa",
+      "source": "data/voices-latam/reviewed-extra.json",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "geography/finland.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "Finlandia",
+      "source": "data/voices-latam/reviewed-extra.json",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "geography/france.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "Francia",
+      "source": "data/voices-latam/reviewed-extra.json",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "geography/french_guiana.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "Guayana Francesa",
+      "source": "data/voices-latam/reviewed-extra.json",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "geography/gabon.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "Gabón",
+      "source": "data/voices-latam/reviewed-extra.json",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "geography/gambia.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "Gambia",
+      "source": "data/voices-latam/reviewed-extra.json",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "geography/germany.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "Alemania",
+      "source": "data/voices-latam/reviewed-extra.json",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "geography/ghana.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "Ghana",
+      "source": "data/voices-latam/reviewed-extra.json",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "geography/greece.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "Grecia",
+      "source": "data/voices-latam/reviewed-extra.json",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "geography/greenland.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "Groenlandia",
+      "source": "data/voices-latam/reviewed-extra.json",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "geography/guatemala.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "Guatemala",
+      "source": "data/voices-latam/reviewed-extra.json",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "geography/guinea.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "Guinea",
+      "source": "data/voices-latam/reviewed-extra.json",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "geography/guinea_bissau.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "Guinea-Bisáu",
+      "source": "data/voices-latam/reviewed-extra.json",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "geography/guyana.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "Guyana",
+      "source": "data/voices-latam/reviewed-extra.json",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "geography/haiti.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "Haití",
+      "source": "data/voices-latam/reviewed-extra.json",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "geography/honduras.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "Honduras",
+      "source": "data/voices-latam/reviewed-extra.json",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "geography/hungary.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "Hungría",
+      "source": "data/voices-latam/reviewed-extra.json",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "geography/iceland.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "Islandia",
+      "source": "data/voices-latam/reviewed-extra.json",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "geography/ireland.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "Irlanda",
+      "source": "data/voices-latam/reviewed-extra.json",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "geography/italy.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "Italia",
+      "source": "data/voices-latam/reviewed-extra.json",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "geography/ivory_coast.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "Costa de Marfil",
+      "source": "data/voices-latam/reviewed-extra.json",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "geography/jamaica.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "Jamaica",
+      "source": "data/voices-latam/reviewed-extra.json",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "geography/kenya.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "Kenia",
+      "source": "data/voices-latam/reviewed-extra.json",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "geography/latvia.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "Letonia",
+      "source": "data/voices-latam/reviewed-extra.json",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "geography/lesotho.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "Lesoto",
+      "source": "data/voices-latam/reviewed-extra.json",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "geography/liberia.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "Liberia",
+      "source": "data/voices-latam/reviewed-extra.json",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "geography/libya.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "Libia",
+      "source": "data/voices-latam/reviewed-extra.json",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "geography/lithuania.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "Lituania",
+      "source": "data/voices-latam/reviewed-extra.json",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "geography/luxembourg.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "Luxemburgo",
+      "source": "data/voices-latam/reviewed-extra.json",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "geography/macedonia.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "Macedonia del Norte",
+      "source": "data/voices-latam/reviewed-extra.json",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "geography/madagascar.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "Madagascar",
+      "source": "data/voices-latam/reviewed-extra.json",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "geography/malawi.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "Malaui",
+      "source": "data/voices-latam/reviewed-extra.json",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "geography/mali.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "Malí",
+      "source": "data/voices-latam/reviewed-extra.json",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "geography/mauritania.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "Mauritania",
+      "source": "data/voices-latam/reviewed-extra.json",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "geography/mexico.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "México",
+      "source": "data/voices-latam/reviewed-extra.json",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "geography/moldova.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "Moldavia",
+      "source": "data/voices-latam/reviewed-extra.json",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "geography/montenegro.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "Montenegro",
+      "source": "data/voices-latam/reviewed-extra.json",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "geography/moroco.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "Marruecos",
+      "source": "data/voices-latam/reviewed-extra.json",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "geography/mozambique.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "Mozambique",
+      "source": "data/voices-latam/reviewed-extra.json",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "geography/namibia.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "Namibia",
+      "source": "data/voices-latam/reviewed-extra.json",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "geography/netherland.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "Países Bajos",
+      "source": "data/voices-latam/reviewed-extra.json",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "geography/nicaragua.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "Nicaragua",
+      "source": "data/voices-latam/reviewed-extra.json",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "geography/niger.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "Níger",
+      "source": "data/voices-latam/reviewed-extra.json",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "geography/north_america.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "América del Norte",
+      "source": "data/voices-latam/reviewed-extra.json",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "geography/norway.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "Noruega",
+      "source": "data/voices-latam/reviewed-extra.json",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "geography/oceania.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "Oceanía",
+      "source": "data/voices-latam/reviewed-extra.json",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "geography/panama.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "Panamá",
+      "source": "data/voices-latam/reviewed-extra.json",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "geography/paraguay.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "Paraguay",
+      "source": "data/voices-latam/reviewed-extra.json",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "geography/peru.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "Perú",
+      "source": "data/voices-latam/reviewed-extra.json",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "geography/poland.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "Polonia",
+      "source": "data/voices-latam/reviewed-extra.json",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "geography/portugal.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "Portugal",
+      "source": "data/voices-latam/reviewed-extra.json",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "geography/puerto_rico.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "Puerto Rico",
+      "source": "data/voices-latam/reviewed-extra.json",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "geography/romania.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "Rumanía",
+      "source": "data/voices-latam/reviewed-extra.json",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "geography/russia.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "Rusia",
+      "source": "data/voices-latam/reviewed-extra.json",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "geography/rwanda.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "Ruanda",
+      "source": "data/voices-latam/reviewed-extra.json",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "geography/salvador.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "El Salvador",
+      "source": "data/voices-latam/reviewed-extra.json",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "geography/senegal.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "Senegal",
+      "source": "data/voices-latam/reviewed-extra.json",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "geography/serbia.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "Serbia",
+      "source": "data/voices-latam/reviewed-extra.json",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "geography/sierra_leone.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "Sierra Leona",
+      "source": "data/voices-latam/reviewed-extra.json",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "geography/slovakia.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "Eslovaquia",
+      "source": "data/voices-latam/reviewed-extra.json",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "geography/slovenia.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "Eslovenia",
+      "source": "data/voices-latam/reviewed-extra.json",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "geography/somalia.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "Somalia",
+      "source": "data/voices-latam/reviewed-extra.json",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "geography/south_africa.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "Sudáfrica",
+      "source": "data/voices-latam/reviewed-extra.json",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "geography/south_america.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "América del Sur",
+      "source": "data/voices-latam/reviewed-extra.json",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "geography/spain.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "España",
+      "source": "data/voices-latam/reviewed-extra.json",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "geography/sudan.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "Sudán",
+      "source": "data/voices-latam/reviewed-extra.json",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "geography/suriname.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "Surinam",
+      "source": "data/voices-latam/reviewed-extra.json",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "geography/swaziland.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "Suazilandia",
+      "source": "data/voices-latam/reviewed-extra.json",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "geography/sweden.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "Suecia",
+      "source": "data/voices-latam/reviewed-extra.json",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "geography/switz.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "Suiza",
+      "source": "data/voices-latam/reviewed-extra.json",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "geography/tanzania.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "Tanzania",
+      "source": "data/voices-latam/reviewed-extra.json",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "geography/togo.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "Togo",
+      "source": "data/voices-latam/reviewed-extra.json",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "geography/tunisia.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "Túnez",
+      "source": "data/voices-latam/reviewed-extra.json",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "geography/turkey.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "Turquía",
+      "source": "data/voices-latam/reviewed-extra.json",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "geography/uganda.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "Uganda",
+      "source": "data/voices-latam/reviewed-extra.json",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "geography/ukraine.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "Ucrania",
+      "source": "data/voices-latam/reviewed-extra.json",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "geography/united_kingdom.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "Reino Unido",
+      "source": "data/voices-latam/reviewed-extra.json",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "geography/uruguay.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "Uruguay",
+      "source": "data/voices-latam/reviewed-extra.json",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "geography/usa.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "Estados Unidos",
+      "source": "data/voices-latam/reviewed-extra.json",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "geography/venezuela.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "Venezuela",
+      "source": "data/voices-latam/reviewed-extra.json",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "geography/western_sahara.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "Sáhara Occidental",
+      "source": "data/voices-latam/reviewed-extra.json",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "geography/zambia.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "Zambia",
+      "source": "data/voices-latam/reviewed-extra.json",
+      "status": "ready",
       "voice": "jessica"
     },
     {
       "path": "geography/zimbabwe.ogg",
-      "text": "",
-      "source": "",
-      "status": "needs_transcript",
+      "text": "Zimbabue",
+      "source": "data/voices-latam/reviewed-extra.json",
+      "status": "ready",
       "voice": "jessica"
     }
   ]
