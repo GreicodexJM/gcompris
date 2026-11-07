@@ -38,12 +38,32 @@ El resultado está en `tools/latam/build/`, junto a `Contents` y
 el paquete, pero no garantiza que una descarga posterior de KDE no lo sustituya.
 No activar actualizaciones de voces durante la prueba.
 
-## Instalación pendiente
+## Piloto Android instalado
 
 La app de F-Droid no permite modificar sus datos privados mediante `run-as`.
 No desinstalarla para cambiar la firma: eso podría borrar el progreso.
-La instalación requiere comprobar las rutas accesibles de recursos en el aparato
-o preparar una variante separada. No se ha cambiado todavía ninguna voz en la Fire.
+Se ha preparado una variante independiente, `net.gcompris.latn`, instalada solo
+en el perfil 10. El acceso directo se llama **GCompris Latino**. La original,
+`net.gcompris.full`, conserva sus datos y permanece instalada. La variante tiene
+progreso propio; no se ha migrado el historial ni se ha borrado el original.
+
+```sh
+python3 tools/latam/android_pilot.py /ruta/al/APK-original-26.2-arm64.apk
+adb -s SERIAL install --user 10 -r -t tools/latam/build/gcompris-latino.apk
+```
+
+Este piloto **no** es una compilación completa desde código fuente: reutiliza el
+binario 26.2 de F-Droid y añade el paquete de audio en
+`assets/data3/voices-ogg/`. Cambia el identificador Android y la etiqueta visible,
+y se firma con la clave local de pruebas. El guion está incluido para que estos
+cambios sean reproducibles. El código ejecutable original no se modifica.
+
+Verificación en Fire 7: arranque correcto y registro del recurso nuevo en el log
+de Qt (`Successfully registered resource assets:/data3/voices-ogg/...`). Las
+descargas automáticas están desactivadas en la configuración. La ruta `es`
+conserva la compatibilidad: la interfaz puede decir «español de España», pero
+las cuatro locuciones de este lote son latinoamericanas. Los otros 899 audios
+siguen siendo los originales. Falta la escucha final del dueño en el altavoz.
 
 Los audios originales conservan sus licencias; los textos traducidos mantienen
 sus avisos en `po/es/gcompris_voices.po`. No se modifica la licencia global del
